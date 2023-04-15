@@ -7,8 +7,8 @@ function Home() {
       <div>
         <h1>Home Page</h1>
       </div>
-      <Link href="/users" style={{ cursor: "pointer" }}>
-        <h2>See Users</h2>
+      <Link href="/news" style={{ cursor: "pointer" }}>
+        <h2>See News</h2>
       </Link>
     </div>
   );
